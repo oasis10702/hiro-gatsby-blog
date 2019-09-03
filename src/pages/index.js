@@ -22,10 +22,10 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to Hiroshi's website.</p>
+        <p>{`Welcome to Hiroshi's website.`}</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          {`This starter comes out of the box with styled components and Gatsby's
+          default starter blog running on Netlify CMS.`}
         </p>
         <p>Now go build something great!</p>
         <Link to="/blog/">
