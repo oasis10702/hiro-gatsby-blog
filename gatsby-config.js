@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Ho Japan`,
+    title: `Ho JapanLife`,
     author: `Wei-Hong Ho`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `I will share my experience about software engineering and life in Japan`,
+    siteUrl: `https://hiroshi-blog.netlify.com/`,
     social: {
       twitter: `kylemathews`,
     },
